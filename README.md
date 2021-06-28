@@ -7,6 +7,16 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
+## About Project
+A web-application built in laravel, name "LoginSystem". There are basically 4 pages - login, register, lander_for_success, lander_for_error.
+
+## Requirements
+- Laravel version 7
+- PHP >=7.2.5
+- Composer
+- Xampp
+- Google Recaptcha
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
